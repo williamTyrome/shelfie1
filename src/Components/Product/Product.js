@@ -11,4 +11,4 @@ export default function Product(props){
         <hr/>
         </div>
     )
-}
+}    
